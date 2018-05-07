@@ -1,0 +1,17 @@
+# 常见问题汇总
+
+- [iOS中的Webview链接不上](//github.com/alibaba/macaca/issues/79)
+- [Android的Webview版本问题](//github.com/alibaba/macaca/issues/361)
+- [Promise编写异步测试用例](//github.com/alibaba/macaca/issues/26)
+- [导出测试报告失败](//github.com/alibaba/macaca/issues/13)
+- [权限问题导致的无法运行](//github.com/alibaba/macaca/issues/8)
+- [Linux环境下运行注意事项](//github.com/alibaba/macaca/issues/6)
+- [Windows环境下的问题](//github.com/alibaba/macaca/issues/92)
+- [如何查找和定位Native和网页的元素](//github.com/alibaba/macaca/issues/65)
+- [iOS 包编译问题导致无法运行](//github.com/alibaba/macaca/issues/4)
+- [iOS 真机证书问题](//github.com/alibaba/macaca/issues/42)
+- [移动端手势相关](//github.com/alibaba/macaca/issues/366)
+- [截图结果相关问题](//github.com/alibaba/macaca/issues/85)
+- [多任务测试](//github.com/alibaba/macaca/issues/105)
+- [多设备测试](//github.com/alibaba/macaca/issues/77)
+- [升级安卓驱动后出现安装com.macaca apk 包失败问题](//github.com/alibaba/macaca/issues/709)
